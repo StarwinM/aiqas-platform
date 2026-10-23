@@ -1,0 +1,10 @@
+finding,count,denominator,related_requirement
+Missing seat availability,5,5,FR-04 and FR-05
+Useful topic/date filters,3,5,FR-03
+Late event discovery,2,5,FR-03
+Unclear registration success,2,5,FR-05 and FR-08
+Unclear cancellation process,2,5,FR-07
+Conflicting information across sources,2,5,FR-04 and FR-11
+Missing time/location,1,5,FR-04
+Late change/cancellation notice,1,5,FR-11
+History usefulness yes in optional free text,2,5,FR-13 P1
